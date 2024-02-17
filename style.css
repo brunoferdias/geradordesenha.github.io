@@ -111,6 +111,7 @@ body{
 }
 
 .credito{
+  font-size: 17px !important;
   height: 60px;
   color: rgb(97, 97, 97) !important;
   display: flex;
@@ -124,6 +125,5 @@ body{
 .credito:hover{
   transform: scale(1.05);
   color: #5e4c4c !important;
-  
-  
+ 
 }
