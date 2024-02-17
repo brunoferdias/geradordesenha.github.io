@@ -7,7 +7,7 @@
 
 body{
   background-color: #18181B;
-  width: 100%;
+  width: 85%;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -124,5 +124,6 @@ body{
 .credito:hover{
   transform: scale(1.05);
   color: #5e4c4c !important;
+  
   
 }
